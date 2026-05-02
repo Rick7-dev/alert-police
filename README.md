@@ -49,7 +49,9 @@ Designed for customization, flexibility, and performance inside SA-MP environmen
 
 ## 📸 Preview
 
-*(Add screenshots or GIFs here later for better presentation)*
+<p align="center">
+  <img src="menu.png" width="500"/>
+</p>*
 
 ---
 
